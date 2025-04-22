@@ -1,6 +1,14 @@
 # scRNA-seq_LungProject
 We are developing a scRNA-seq pipeline for testing lung fibrosis data and refer them with the HCA data
 
+## References and Acknowledgments
+
+This project is based on the best practices and tutorials from the scientific community. We especially thank the following works and publications for their contribution:
+
+1. M.D. Luecken, F.J. Theis, "Current best practices in single-cell RNA-seq analysis: a tutorial", Molecular Systems Biology 15(6) (2019): e8746
+2. Heumos, L., Schaar, A.C., Lance, C. et al. Best practices for single-cell analysis across modalities. Nat Rev Genet (2023). https://doi.org/10.1038/s41576-023-00586-w
+3. Sanborn, Mark (2022). Sanbomics scripts. https://github.com/mousepixels/sanbomics_scripts
+
 ## Python:
 
 - scanpy (v. 1.11.1)  
