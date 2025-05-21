@@ -23,22 +23,9 @@ This project is based on the best practices and tutorials from the scientific co
 
 ## Python:
 
-- scanpy (v. 1.11.1)  
-- numpy (v. 2.2.5)  
-- scipy (v. 1.15.2)  
-- matplotlib (v. 3.10.1)  
-- pandas (v. 2.2.3)  
-- scvi-tools (v. 1.3.0)  
-- seaborn (v. 0.13.2)  
-- sc-toolbox (v. 0.12.3)  
-- rpy2 (v. 3.5.17)  
-- anndata2ri (v. 1.3.2)  
-- loompy (v. 3.0.8)  
-- celltypist (v. 1.6.3)  
-- mygene (v. 3.2.2)  
-- ipykernel (v. 6.29.5)  
+You can install independently of the kernel file these dependencies using pip as:
 
-You can install these dependencies using pip:
+(EXAMPLE)
 
 ```bash
 pip install scanpy==1.11.1 numpy==2.2.5 scipy==1.15.2 matplotlib==3.10.1 pandas==2.2.3 \
