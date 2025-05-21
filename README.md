@@ -1,6 +1,18 @@
 # scRNA-seq_LungProject
 We are developing a scRNA-seq pipeline for testing lung fibrosis data and refer them with the HCA data
 
+## How to run the pipeline?
+
+We advice the user to run as follow the scripts:
+
+1. TheLungProject.ipynb
+2. CHOIR_part0(pre).ipynb
+3. run_CHOIR.R
+4. Training_model_celltypist-nativeIPFmodel.ipynb
+5. run_pseudotime_M3.R
+
+NOTE: Before start playing with data it will be necessary to run ".sh" files to set the kernel and download the files (3_run_cellbender.sh won be necessary to run till authors already removed ambient RNA)
+
 ## References and Acknowledgments
 
 This project is based on the best practices and tutorials from the scientific community. We especially thank the following works and publications for their contribution:
