@@ -11,7 +11,7 @@ We advice the user to run as follow the scripts:
 4. Training_model_celltypist-nativeIPFmodel.ipynb
 5. run_pseudotime_M3.R
 
-NOTE: Before start playing with data it will be necessary to run ".sh" files to set the kernel and download the files (3_run_cellbender.sh won be necessary to run till authors already removed ambient RNA)
+NOTE: Before start playing with data it will be necessary to run ".sh" files to set the kernel and download the files (3_run_cellbender.sh won't be necessary to run as the authors have already removed ambient RNA)
 
 ## References and Acknowledgments
 
